@@ -9,7 +9,7 @@ Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
     introTitle: 'Bé Duyên à!',
-    introDesc: `Hôm nay anh thấy em dễ thương nên anh gửi em cái link này`,
+    introDesc: 'Hôm nay anh thấy em dễ thương nên anh gửi em cái link này',
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -21,7 +21,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Nhắn tin cho anh ngay nhé .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100068516693622
+    messLink: 'https://www.facebook.com/profile.php?id=100068516693622'
 }
 ```
 
