@@ -1,4 +1,3 @@
-const 
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Hôm nay anh thấy em dễ thương nên anh gửi em cái link này`,
